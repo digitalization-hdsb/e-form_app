@@ -1,0 +1,3367 @@
+[
+    {
+        "id":  1,
+        "module":  "Accounting",
+        "right":  "Accounting procedures applied - Show accounting procedures applied"
+    },
+    {
+        "id":  2,
+        "module":  "Accounting",
+        "right":  "Accounting report - Create accounting reports"
+    },
+    {
+        "id":  3,
+        "module":  "Accounting",
+        "right":  "Accounting report - Delete accounting reports"
+    },
+    {
+        "id":  4,
+        "module":  "Accounting",
+        "right":  "Accounting report - Modify accounting reports"
+    },
+    {
+        "id":  5,
+        "module":  "Accounting",
+        "right":  "Accounting report - Show accounting reports"
+    },
+    {
+        "id":  6,
+        "module":  "Accounting",
+        "right":  "Accounting year - Change accounting year"
+    },
+    {
+        "id":  7,
+        "module":  "Accounting",
+        "right":  "Accounting year - Create new accounting year"
+    },
+    {
+        "id":  8,
+        "module":  "Accounting",
+        "right":  "Accounting year - Delete accounting year"
+    },
+    {
+        "id":  9,
+        "module":  "Accounting",
+        "right":  "Accounting year - Show accounting year"
+    },
+    {
+        "id":  10,
+        "module":  "Accounting",
+        "right":  "Accrual accounting - Create accrual"
+    },
+    {
+        "id":  11,
+        "module":  "Accounting",
+        "right":  "Accrual accounting - Delete accrual"
+    },
+    {
+        "id":  12,
+        "module":  "Accounting",
+        "right":  "Accrual accounting - Modify accrual"
+    },
+    {
+        "id":  13,
+        "module":  "Accounting",
+        "right":  "Accrual accounting - Release accruals"
+    },
+    {
+        "id":  14,
+        "module":  "Accounting",
+        "right":  "Accrual accounting - Show accrual"
+    },
+    {
+        "id":  15,
+        "module":  "Accounting",
+        "right":  "Allocation keys - Create allocation keys"
+    },
+    {
+        "id":  16,
+        "module":  "Accounting",
+        "right":  "Allocation keys - Delete allocation keys"
+    },
+    {
+        "id":  17,
+        "module":  "Accounting",
+        "right":  "Allocation keys - Modify allocation keys"
+    },
+    {
+        "id":  18,
+        "module":  "Accounting",
+        "right":  "Allocation keys - Show allocation keys"
+    },
+    {
+        "id":  19,
+        "module":  "Accounting",
+        "right":  "Approve/Print bank reconciliation - Approve/Print bank reconciliation report"
+    },
+    {
+        "id":  20,
+        "module":  "Accounting",
+        "right":  "Approve/Print bank reconciliation - Show Approve/Print bank reconciliation"
+    },
+    {
+        "id":  21,
+        "module":  "Accounting",
+        "right":  "Automatic allocations - Create automatic allocation"
+    },
+    {
+        "id":  22,
+        "module":  "Accounting",
+        "right":  "Automatic allocations - Delete automatic posting"
+    },
+    {
+        "id":  23,
+        "module":  "Accounting",
+        "right":  "Automatic allocations - Modify automatic allocation"
+    },
+    {
+        "id":  24,
+        "module":  "Accounting",
+        "right":  "Automatic allocations - Show automatic allocations"
+    },
+    {
+        "id":  25,
+        "module":  "Accounting",
+        "right":  "Automatic postings - Create automatic postings"
+    },
+    {
+        "id":  26,
+        "module":  "Accounting",
+        "right":  "Automatic postings - Delete automatic posting"
+    },
+    {
+        "id":  27,
+        "module":  "Accounting",
+        "right":  "Automatic postings - Modify automatic postings"
+    },
+    {
+        "id":  28,
+        "module":  "Accounting",
+        "right":  "Automatic postings - Release automatic postings/allocations"
+    },
+    {
+        "id":  29,
+        "module":  "Accounting",
+        "right":  "Automatic postings - Show automatic postings"
+    },
+    {
+        "id":  30,
+        "module":  "Accounting",
+        "right":  "Balance information - Show balance information"
+    },
+    {
+        "id":  31,
+        "module":  "Accounting",
+        "right":  "Bank reconciliation - Modify bank reconciliation"
+    },
+    {
+        "id":  32,
+        "module":  "Accounting",
+        "right":  "Bank reconciliation - Show bank reconciliation"
+    },
+    {
+        "id":  33,
+        "module":  "Accounting",
+        "right":  "Bank settings - Modify bank settings"
+    },
+    {
+        "id":  34,
+        "module":  "Accounting",
+        "right":  "Bank settings - Show bank settings"
+    },
+    {
+        "id":  35,
+        "module":  "Accounting",
+        "right":  "Basic data – Budget - Create basic data for budget"
+    },
+    {
+        "id":  36,
+        "module":  "Accounting",
+        "right":  "Basic data – Budget - Delete basic data for budget"
+    },
+    {
+        "id":  37,
+        "module":  "Accounting",
+        "right":  "Basic data – Budget - Modify basic data for budget"
+    },
+    {
+        "id":  38,
+        "module":  "Accounting",
+        "right":  "Basic data – Budget - Show basic data for budget"
+    },
+    {
+        "id":  39,
+        "module":  "Accounting",
+        "right":  "Basic data – Fixed assets register - Create new basic data for fixed assets register"
+    },
+    {
+        "id":  40,
+        "module":  "Accounting",
+        "right":  "Basic data – Fixed assets register - Delete basic data for fixed assets register"
+    },
+    {
+        "id":  41,
+        "module":  "Accounting",
+        "right":  "Basic data – Fixed assets register - Modify basic data for fixed assets register"
+    },
+    {
+        "id":  42,
+        "module":  "Accounting",
+        "right":  "Basic data – Fixed assets register - Show basic data for fixed assets register"
+    },
+    {
+        "id":  43,
+        "module":  "Accounting",
+        "right":  "Basic data – Project - Create basic data for project"
+    },
+    {
+        "id":  44,
+        "module":  "Accounting",
+        "right":  "Basic data – Project - Delete basic data for project"
+    },
+    {
+        "id":  45,
+        "module":  "Accounting",
+        "right":  "Basic data – Project - Modify basic data for project"
+    },
+    {
+        "id":  46,
+        "module":  "Accounting",
+        "right":  "Basic data – Project - Show basic data for project"
+    },
+    {
+        "id":  47,
+        "module":  "Accounting",
+        "right":  "Budget - Create budget"
+    },
+    {
+        "id":  48,
+        "module":  "Accounting",
+        "right":  "Budget - Delete budget"
+    },
+    {
+        "id":  49,
+        "module":  "Accounting",
+        "right":  "Budget - Modify budget"
+    },
+    {
+        "id":  50,
+        "module":  "Accounting",
+        "right":  "Budget - Show budget"
+    },
+    {
+        "id":  51,
+        "module":  "Accounting",
+        "right":  "Change period/accounting year - Change period"
+    },
+    {
+        "id":  52,
+        "module":  "Accounting",
+        "right":  "Change period/accounting year - Change period status"
+    },
+    {
+        "id":  53,
+        "module":  "Accounting",
+        "right":  "Change period/accounting year - Change year"
+    },
+    {
+        "id":  54,
+        "module":  "Accounting",
+        "right":  "Change period/accounting year - Show period management"
+    },
+    {
+        "id":  55,
+        "module":  "Accounting",
+        "right":  "Change period/accounting year - Undo change of period"
+    },
+    {
+        "id":  56,
+        "module":  "Accounting",
+        "right":  "Chart of accounts (accounts, standard accounts) - Create new account"
+    },
+    {
+        "id":  57,
+        "module":  "Accounting",
+        "right":  "Chart of accounts (accounts, standard accounts) - Delete account"
+    },
+    {
+        "id":  58,
+        "module":  "Accounting",
+        "right":  "Chart of accounts (accounts, standard accounts) - Modify account"
+    },
+    {
+        "id":  59,
+        "module":  "Accounting",
+        "right":  "Chart of accounts (accounts, standard accounts) - Show chart of accounts"
+    },
+    {
+        "id":  60,
+        "module":  "Accounting",
+        "right":  "Chart of accounts headings - Create chart of accounts headings"
+    },
+    {
+        "id":  61,
+        "module":  "Accounting",
+        "right":  "Chart of accounts headings - Delete chart of accounts headings"
+    },
+    {
+        "id":  62,
+        "module":  "Accounting",
+        "right":  "Chart of accounts headings - Modify chart of accounts headings"
+    },
+    {
+        "id":  63,
+        "module":  "Accounting",
+        "right":  "Chart of accounts headings - Show chart of accounts headings"
+    },
+    {
+        "id":  64,
+        "module":  "Accounting",
+        "right":  "Depreciation - Perform depreciation"
+    },
+    {
+        "id":  65,
+        "module":  "Accounting",
+        "right":  "Depreciation - Show depreciation"
+    },
+    {
+        "id":  66,
+        "module":  "Accounting",
+        "right":  "Depreciation - Undo depreciation/sales"
+    },
+    {
+        "id":  67,
+        "module":  "Accounting",
+        "right":  "Dimensions - Create new dimension"
+    },
+    {
+        "id":  68,
+        "module":  "Accounting",
+        "right":  "Dimensions - Create new dimension code"
+    },
+    {
+        "id":  69,
+        "module":  "Accounting",
+        "right":  "Dimensions - Delete dimension code"
+    },
+    {
+        "id":  70,
+        "module":  "Accounting",
+        "right":  "Dimensions - Delete dimensions"
+    },
+    {
+        "id":  71,
+        "module":  "Accounting",
+        "right":  "Dimensions - Modify dimension"
+    },
+    {
+        "id":  72,
+        "module":  "Accounting",
+        "right":  "Dimensions - Modify dimension code"
+    },
+    {
+        "id":  73,
+        "module":  "Accounting",
+        "right":  "Dimensions - Show dimensions/dimension codes"
+    },
+    {
+        "id":  74,
+        "module":  "Accounting",
+        "right":  "EC sales list - Show EC sales list"
+    },
+    {
+        "id":  75,
+        "module":  "Accounting",
+        "right":  "Export/Import - Perform export"
+    },
+    {
+        "id":  76,
+        "module":  "Accounting",
+        "right":  "Export/Import - Perform import"
+    },
+    {
+        "id":  77,
+        "module":  "Accounting",
+        "right":  "Export/Import - Show export/import"
+    },
+    {
+        "id":  78,
+        "module":  "Accounting",
+        "right":  "Fixed assets journal - Approve fixed assets journal"
+    },
+    {
+        "id":  79,
+        "module":  "Accounting",
+        "right":  "Fixed assets journal - Show fixed assets journal"
+    },
+    {
+        "id":  80,
+        "module":  "Accounting",
+        "right":  "Fixed assets object - Create new fixed assets object"
+    },
+    {
+        "id":  81,
+        "module":  "Accounting",
+        "right":  "Fixed assets object - Delete fixed assets object"
+    },
+    {
+        "id":  82,
+        "module":  "Accounting",
+        "right":  "Fixed assets object - Modify fixed assets object"
+    },
+    {
+        "id":  83,
+        "module":  "Accounting",
+        "right":  "Fixed assets object - Sell/retire fixed assets object"
+    },
+    {
+        "id":  84,
+        "module":  "Accounting",
+        "right":  "Fixed assets object - Show fixed assets objects"
+    },
+    {
+        "id":  85,
+        "module":  "Accounting",
+        "right":  "Opening balance - Create opening balance"
+    },
+    {
+        "id":  86,
+        "module":  "Accounting",
+        "right":  "Opening balance - Delete opening balance"
+    },
+    {
+        "id":  87,
+        "module":  "Accounting",
+        "right":  "Opening balance - Load OB from previous year\u0027s CB"
+    },
+    {
+        "id":  88,
+        "module":  "Accounting",
+        "right":  "Opening balance - Modify opening balance"
+    },
+    {
+        "id":  89,
+        "module":  "Accounting",
+        "right":  "Opening balance - Show opening balance"
+    },
+    {
+        "id":  90,
+        "module":  "Accounting",
+        "right":  "Posting method - Create posting method"
+    },
+    {
+        "id":  91,
+        "module":  "Accounting",
+        "right":  "Posting method - Delete posting method"
+    },
+    {
+        "id":  92,
+        "module":  "Accounting",
+        "right":  "Posting method - Modify posting method"
+    },
+    {
+        "id":  93,
+        "module":  "Accounting",
+        "right":  "Posting method - Show posting method"
+    },
+    {
+        "id":  94,
+        "module":  "Accounting",
+        "right":  "Posting of logs - Perform posting of logs"
+    },
+    {
+        "id":  95,
+        "module":  "Accounting",
+        "right":  "Print log journal - Approve outgoing payment journal"
+    },
+    {
+        "id":  96,
+        "module":  "Accounting",
+        "right":  "Print log journal - Show outgoing payment journal"
+    },
+    {
+        "id":  97,
+        "module":  "Accounting",
+        "right":  "Projects - Approve revenue calculation journal"
+    },
+    {
+        "id":  98,
+        "module":  "Accounting",
+        "right":  "Projects - Calculate material cost"
+    },
+    {
+        "id":  99,
+        "module":  "Accounting",
+        "right":  "Projects - Create new project"
+    },
+    {
+        "id":  100,
+        "module":  "Accounting",
+        "right":  "Projects - Delete project"
+    },
+    {
+        "id":  101,
+        "module":  "Accounting",
+        "right":  "Projects - Modify project"
+    },
+    {
+        "id":  102,
+        "module":  "Accounting",
+        "right":  "Projects - Modify revenue calculation"
+    },
+    {
+        "id":  103,
+        "module":  "Accounting",
+        "right":  "Projects - Print material cost calculation journal"
+    },
+    {
+        "id":  104,
+        "module":  "Accounting",
+        "right":  "Projects - Release invoice basis – Project, for all employees"
+    },
+    {
+        "id":  105,
+        "module":  "Accounting",
+        "right":  "Projects - Release invoice basis – Project, only own reportings"
+    },
+    {
+        "id":  106,
+        "module":  "Accounting",
+        "right":  "Projects - Release invoice basis – Project, only project manager"
+    },
+    {
+        "id":  107,
+        "module":  "Accounting",
+        "right":  "Projects - Show projects"
+    },
+    {
+        "id":  108,
+        "module":  "Accounting",
+        "right":  "Projects - Show revenue calculation"
+    },
+    {
+        "id":  109,
+        "module":  "Accounting",
+        "right":  "Projects - Show revenue calculation journal"
+    },
+    {
+        "id":  110,
+        "module":  "Accounting",
+        "right":  "Revaluate accounts - Approve revaluate accounts"
+    },
+    {
+        "id":  111,
+        "module":  "Accounting",
+        "right":  "Revaluate accounts - Show revaluate accounts"
+    },
+    {
+        "id":  112,
+        "module":  "Accounting",
+        "right":  "SAF-T Grouping codes - Delete SAF-T Grouping codes"
+    },
+    {
+        "id":  113,
+        "module":  "Accounting",
+        "right":  "SAF-T Grouping codes - Modify SAF-T Grouping codes"
+    },
+    {
+        "id":  114,
+        "module":  "Accounting",
+        "right":  "SAF-T Grouping codes - Modify SAF-T Grouping codes"
+    },
+    {
+        "id":  115,
+        "module":  "Accounting",
+        "right":  "SAF-T Grouping codes - Show SAF-T Grouping codes"
+    },
+    {
+        "id":  116,
+        "module":  "Accounting",
+        "right":  "SAF-T Standard accounts (up to \u0026 incl. 2024) - Create SAF-T Standard accounts (up to \u0026 incl. 2024)"
+    },
+    {
+        "id":  117,
+        "module":  "Accounting",
+        "right":  "SAF-T Standard accounts (up to \u0026 incl. 2024) - Delete SAF-T Standard accounts (up to \u0026 incl. 2024)"
+    },
+    {
+        "id":  118,
+        "module":  "Accounting",
+        "right":  "SAF-T Standard accounts (up to \u0026 incl. 2024) - Modify SAF-T Standard accounts (up to \u0026 incl. 2024)"
+    },
+    {
+        "id":  119,
+        "module":  "Accounting",
+        "right":  "SAF-T Standard accounts (up to \u0026 incl. 2024) - Show SAF-T Standard accounts (up to \u0026 incl. 2024)"
+    },
+    {
+        "id":  120,
+        "module":  "Accounting",
+        "right":  "Sanctions lists - Show sanctions list"
+    },
+    {
+        "id":  121,
+        "module":  "Accounting",
+        "right":  "Search management accounting - Show Search management accounting"
+    },
+    {
+        "id":  122,
+        "module":  "Accounting",
+        "right":  "SRU codes - Change SRU codes"
+    },
+    {
+        "id":  123,
+        "module":  "Accounting",
+        "right":  "SRU codes - Create new SRU codes"
+    },
+    {
+        "id":  124,
+        "module":  "Accounting",
+        "right":  "SRU codes - Delete SRU codes"
+    },
+    {
+        "id":  125,
+        "module":  "Accounting",
+        "right":  "SRU codes - Show SRU codes"
+    },
+    {
+        "id":  126,
+        "module":  "Accounting",
+        "right":  "Standard VAT codes (SAF-T) - Create Standard VAT codes (SAF-T)"
+    },
+    {
+        "id":  127,
+        "module":  "Accounting",
+        "right":  "Standard VAT codes (SAF-T) - Delete Standard VAT codes (SAF-T)"
+    },
+    {
+        "id":  128,
+        "module":  "Accounting",
+        "right":  "Standard VAT codes (SAF-T) - Modify Standard VAT codes (SAF-T)"
+    },
+    {
+        "id":  129,
+        "module":  "Accounting",
+        "right":  "Standard VAT codes (SAF-T) - Show Standard VAT codes (SAF-T)"
+    },
+    {
+        "id":  130,
+        "module":  "Accounting",
+        "right":  "VAT exemption - Create VAT exemption"
+    },
+    {
+        "id":  131,
+        "module":  "Accounting",
+        "right":  "VAT exemption - Delete VAT exemption"
+    },
+    {
+        "id":  132,
+        "module":  "Accounting",
+        "right":  "VAT exemption - Modify VAT exemption"
+    },
+    {
+        "id":  133,
+        "module":  "Accounting",
+        "right":  "VAT exemption - Show VAT exemption"
+    },
+    {
+        "id":  134,
+        "module":  "Accounting",
+        "right":  "VAT report - Show VAT report"
+    },
+    {
+        "id":  135,
+        "module":  "Accounting",
+        "right":  "VAT settings - Create new VAT code/VAT group"
+    },
+    {
+        "id":  136,
+        "module":  "Accounting",
+        "right":  "VAT settings - Delete VAT settings"
+    },
+    {
+        "id":  137,
+        "module":  "Accounting",
+        "right":  "VAT settings - Modify VAT settings"
+    },
+    {
+        "id":  138,
+        "module":  "Accounting",
+        "right":  "VAT settings - Show VAT settings"
+    },
+    {
+        "id":  139,
+        "module":  "Accounting",
+        "right":  "Voucher - Create voucher"
+    },
+    {
+        "id":  140,
+        "module":  "Accounting",
+        "right":  "Voucher - Modify voucher"
+    },
+    {
+        "id":  141,
+        "module":  "Accounting",
+        "right":  "Voucher - Show voucher"
+    },
+    {
+        "id":  142,
+        "module":  "Accounting",
+        "right":  "Voucher document - Add voucher document"
+    },
+    {
+        "id":  143,
+        "module":  "Accounting",
+        "right":  "Voucher document - Delete voucher document"
+    },
+    {
+        "id":  144,
+        "module":  "Accounting",
+        "right":  "Voucher document - Replace voucher document"
+    },
+    {
+        "id":  145,
+        "module":  "Accounting",
+        "right":  "Voucher document - Show voucher document"
+    },
+    {
+        "id":  146,
+        "module":  "Accounting",
+        "right":  "Voucher number series - Create voucher number series"
+    },
+    {
+        "id":  147,
+        "module":  "Accounting",
+        "right":  "Voucher number series - Delete voucher number series"
+    },
+    {
+        "id":  148,
+        "module":  "Accounting",
+        "right":  "Voucher number series - Modify voucher number series"
+    },
+    {
+        "id":  149,
+        "module":  "Accounting",
+        "right":  "Voucher number series - Show voucher number series"
+    },
+    {
+        "id":  150,
+        "module":  "Accounting",
+        "right":  "Voucher texts - Create voucher texts"
+    },
+    {
+        "id":  151,
+        "module":  "Accounting",
+        "right":  "Voucher texts - Delete voucher texts"
+    },
+    {
+        "id":  152,
+        "module":  "Accounting",
+        "right":  "Voucher texts - Modify voucher texts"
+    },
+    {
+        "id":  153,
+        "module":  "Accounting",
+        "right":  "Voucher texts - Show voucher texts"
+    },
+    {
+        "id":  154,
+        "module":  "Customer order transfer",
+        "right":  "Connections - Create connection"
+    },
+    {
+        "id":  155,
+        "module":  "Customer order transfer",
+        "right":  "Connections - Delete connection"
+    },
+    {
+        "id":  156,
+        "module":  "Customer order transfer",
+        "right":  "Connections - Modify connection"
+    },
+    {
+        "id":  157,
+        "module":  "Customer order transfer",
+        "right":  "Connections - Show connection"
+    },
+    {
+        "id":  158,
+        "module":  "Customer order transfer",
+        "right":  "Handle customer order transfers - Delete transfer"
+    },
+    {
+        "id":  159,
+        "module":  "Customer order transfer",
+        "right":  "Handle customer order transfers - Show transfer"
+    },
+    {
+        "id":  160,
+        "module":  "Customer order transfer",
+        "right":  "Handle customer order transfers - Transfer"
+    },
+    {
+        "id":  161,
+        "module":  "Customer order transfer",
+        "right":  "Settings for customer order transfer - Create setting"
+    },
+    {
+        "id":  162,
+        "module":  "Customer order transfer",
+        "right":  "Settings for customer order transfer - Delete setting"
+    },
+    {
+        "id":  163,
+        "module":  "Customer order transfer",
+        "right":  "Settings for customer order transfer - Modify setting"
+    },
+    {
+        "id":  164,
+        "module":  "Customer order transfer",
+        "right":  "Settings for customer order transfer - Show setting"
+    },
+    {
+        "id":  165,
+        "module":  "Customer order transfer",
+        "right":  "Settings for transfer notifications - Modify message"
+    },
+    {
+        "id":  166,
+        "module":  "Customer order transfer",
+        "right":  "Settings for transfer notifications - Modify receiver"
+    },
+    {
+        "id":  167,
+        "module":  "Customer order transfer",
+        "right":  "Settings for transfer notifications - Show settings"
+    },
+    {
+        "id":  168,
+        "module":  "Customer order transfer",
+        "right":  "Transfer profiles - Create transfer profile"
+    },
+    {
+        "id":  169,
+        "module":  "Customer order transfer",
+        "right":  "Transfer profiles - Delete transfer profile"
+    },
+    {
+        "id":  170,
+        "module":  "Customer order transfer",
+        "right":  "Transfer profiles - Modify transfer profile"
+    },
+    {
+        "id":  171,
+        "module":  "Customer order transfer",
+        "right":  "Transfer profiles - Show transfer profile"
+    },
+    {
+        "id":  172,
+        "module":  "Field permissions",
+        "right":  "Standard price - Modify standard price"
+    },
+    {
+        "id":  173,
+        "module":  "Field permissions",
+        "right":  "Standard price - Show standard price"
+    },
+    {
+        "id":  174,
+        "module":  "General functions",
+        "right":  "Activities - Change responsible user for activity"
+    },
+    {
+        "id":  175,
+        "module":  "General functions",
+        "right":  "Activities - Report activity"
+    },
+    {
+        "id":  176,
+        "module":  "General functions",
+        "right":  "Activities - Report activity for any user"
+    },
+    {
+        "id":  177,
+        "module":  "General functions",
+        "right":  "Activities - Show Activity list"
+    },
+    {
+        "id":  178,
+        "module":  "General functions",
+        "right":  "Activities - Show Activity list – Project"
+    },
+    {
+        "id":  179,
+        "module":  "General functions",
+        "right":  "Chat - Can use chat function"
+    },
+    {
+        "id":  180,
+        "module":  "General functions",
+        "right":  "List presentations in backstage - Modify availability/default"
+    },
+    {
+        "id":  181,
+        "module":  "General functions",
+        "right":  "List presentations in backstage - Modify presentations"
+    },
+    {
+        "id":  182,
+        "module":  "General functions",
+        "right":  "MAiA - Basic"
+    },
+    {
+        "id":  183,
+        "module":  "General functions",
+        "right":  "MAiA - Configure company memories"
+    },
+    {
+        "id":  184,
+        "module":  "General functions",
+        "right":  "MAiA - Plus"
+    },
+    {
+        "id":  185,
+        "module":  "General functions",
+        "right":  "Save configuration for other users - Right to save configuration for other users"
+    },
+    {
+        "id":  186,
+        "module":  "General functions",
+        "right":  "Scheduled activities - Show scheduled activities"
+    },
+    {
+        "id":  187,
+        "module":  "General registers",
+        "right":  "2D code settings - Create/modify/delete 2D code settings"
+    },
+    {
+        "id":  188,
+        "module":  "General registers",
+        "right":  "2D code settings - Show 2D code settings"
+    },
+    {
+        "id":  189,
+        "module":  "General registers",
+        "right":  "ABC codes - Create new ABC codes"
+    },
+    {
+        "id":  190,
+        "module":  "General registers",
+        "right":  "ABC codes - Delete ABC codes"
+    },
+    {
+        "id":  191,
+        "module":  "General registers",
+        "right":  "ABC codes - Modify existing ABC codes"
+    },
+    {
+        "id":  192,
+        "module":  "General registers",
+        "right":  "ABC codes - Show ABC codes"
+    },
+    {
+        "id":  193,
+        "module":  "General registers",
+        "right":  "Active accounting year - Change active accounting year, per user and temporarily per procedure"
+    },
+    {
+        "id":  194,
+        "module":  "General registers",
+        "right":  "Administer properties - Administer properties"
+    },
+    {
+        "id":  195,
+        "module":  "General registers",
+        "right":  "Agent tasks - Create new Agent tasks"
+    },
+    {
+        "id":  196,
+        "module":  "General registers",
+        "right":  "Agent tasks - Delete Agent tasks"
+    },
+    {
+        "id":  197,
+        "module":  "General registers",
+        "right":  "Agent tasks - Modify Agent tasks"
+    },
+    {
+        "id":  198,
+        "module":  "General registers",
+        "right":  "Agent tasks - Show Agent tasks"
+    },
+    {
+        "id":  199,
+        "module":  "General registers",
+        "right":  "Alloy codes - Create new alloy codes"
+    },
+    {
+        "id":  200,
+        "module":  "General registers",
+        "right":  "Alloy codes - Delete alloy codes"
+    },
+    {
+        "id":  201,
+        "module":  "General registers",
+        "right":  "Alloy codes - Modify existing alloy codes"
+    },
+    {
+        "id":  202,
+        "module":  "General registers",
+        "right":  "Alloy codes - Show alloy codes"
+    },
+    {
+        "id":  203,
+        "module":  "General registers",
+        "right":  "Authorization settings - Create new authorization settings"
+    },
+    {
+        "id":  204,
+        "module":  "General registers",
+        "right":  "Authorization settings - Delete authorization settings"
+    },
+    {
+        "id":  205,
+        "module":  "General registers",
+        "right":  "Authorization settings - Modify authorization settings"
+    },
+    {
+        "id":  206,
+        "module":  "General registers",
+        "right":  "Authorization settings - Show authorization settings"
+    },
+    {
+        "id":  207,
+        "module":  "General registers",
+        "right":  "Balance import - Perform balance import"
+    },
+    {
+        "id":  208,
+        "module":  "General registers",
+        "right":  "Budget charts - Create new budget charts"
+    },
+    {
+        "id":  209,
+        "module":  "General registers",
+        "right":  "Budget charts - Delete budget charts"
+    },
+    {
+        "id":  210,
+        "module":  "General registers",
+        "right":  "Budget charts - Modify budget charts"
+    },
+    {
+        "id":  211,
+        "module":  "General registers",
+        "right":  "Budget charts - Show budget charts"
+    },
+    {
+        "id":  212,
+        "module":  "General registers",
+        "right":  "Bulletin board - Edit bulletin board"
+    },
+    {
+        "id":  213,
+        "module":  "General registers",
+        "right":  "Business adaptation plugins - Business adaptation plugins"
+    },
+    {
+        "id":  214,
+        "module":  "General registers",
+        "right":  "Business intelligence - Access to view definitions"
+    },
+    {
+        "id":  215,
+        "module":  "General registers",
+        "right":  "Business intelligence - Modify availability/default for BI views"
+    },
+    {
+        "id":  216,
+        "module":  "General registers",
+        "right":  "Business intelligence - Settings for BI"
+    },
+    {
+        "id":  217,
+        "module":  "General registers",
+        "right":  "Calculation mark-up - Create new calculation mark-ups"
+    },
+    {
+        "id":  218,
+        "module":  "General registers",
+        "right":  "Calculation mark-up - Delete calculation mark-up"
+    },
+    {
+        "id":  219,
+        "module":  "General registers",
+        "right":  "Calculation mark-up - Modify calculation mark-up"
+    },
+    {
+        "id":  220,
+        "module":  "General registers",
+        "right":  "Calculation mark-up - Show calculation mark-up"
+    },
+    {
+        "id":  221,
+        "module":  "General registers",
+        "right":  "Calendar - Create new calendar"
+    },
+    {
+        "id":  222,
+        "module":  "General registers",
+        "right":  "Calendar - Delete calendar"
+    },
+    {
+        "id":  223,
+        "module":  "General registers",
+        "right":  "Calendar - Modify calendar"
+    },
+    {
+        "id":  224,
+        "module":  "General registers",
+        "right":  "Calendar - Show calendar"
+    },
+    {
+        "id":  225,
+        "module":  "General registers",
+        "right":  "Categories - Create new categories"
+    },
+    {
+        "id":  226,
+        "module":  "General registers",
+        "right":  "Categories - Delete categories"
+    },
+    {
+        "id":  227,
+        "module":  "General registers",
+        "right":  "Categories - Modify categories"
+    },
+    {
+        "id":  228,
+        "module":  "General registers",
+        "right":  "Categories - Show categories"
+    },
+    {
+        "id":  229,
+        "module":  "General registers",
+        "right":  "Cause codes - Create new cause codes"
+    },
+    {
+        "id":  230,
+        "module":  "General registers",
+        "right":  "Cause codes - Delete cause codes"
+    },
+    {
+        "id":  231,
+        "module":  "General registers",
+        "right":  "Cause codes - Modify cause codes"
+    },
+    {
+        "id":  232,
+        "module":  "General registers",
+        "right":  "Cause codes - Show cause codes"
+    },
+    {
+        "id":  233,
+        "module":  "General registers",
+        "right":  "Changelog - Show changelog"
+    },
+    {
+        "id":  234,
+        "module":  "General registers",
+        "right":  "CN codes - Create new CN code"
+    },
+    {
+        "id":  235,
+        "module":  "General registers",
+        "right":  "CN codes - Delete CN codes"
+    },
+    {
+        "id":  236,
+        "module":  "General registers",
+        "right":  "CN codes - Modify existing CN codes"
+    },
+    {
+        "id":  237,
+        "module":  "General registers",
+        "right":  "CN codes - Show CN codes"
+    },
+    {
+        "id":  238,
+        "module":  "General registers",
+        "right":  "Company - Modify existing company (e.g. create warehouse)"
+    },
+    {
+        "id":  239,
+        "module":  "General registers",
+        "right":  "Company - Show company information"
+    },
+    {
+        "id":  240,
+        "module":  "General registers",
+        "right":  "Countries - Modify countries"
+    },
+    {
+        "id":  241,
+        "module":  "General registers",
+        "right":  "Countries - Show countries"
+    },
+    {
+        "id":  242,
+        "module":  "General registers",
+        "right":  "Currencies - Create new currencies"
+    },
+    {
+        "id":  243,
+        "module":  "General registers",
+        "right":  "Currencies - Delete currencies"
+    },
+    {
+        "id":  244,
+        "module":  "General registers",
+        "right":  "Currencies - Modify currencies"
+    },
+    {
+        "id":  245,
+        "module":  "General registers",
+        "right":  "Currencies - Show currencies"
+    },
+    {
+        "id":  246,
+        "module":  "General registers",
+        "right":  "Customized reports - Create customized reports"
+    },
+    {
+        "id":  247,
+        "module":  "General registers",
+        "right":  "Database administration - Database administration"
+    },
+    {
+        "id":  248,
+        "module":  "General registers",
+        "right":  "Departments - Create new departments"
+    },
+    {
+        "id":  249,
+        "module":  "General registers",
+        "right":  "Departments - Delete departments"
+    },
+    {
+        "id":  250,
+        "module":  "General registers",
+        "right":  "Departments - Modify departments"
+    },
+    {
+        "id":  251,
+        "module":  "General registers",
+        "right":  "Departments - Show departments"
+    },
+    {
+        "id":  252,
+        "module":  "General registers",
+        "right":  "Desktop templates - Edit desktop templates"
+    },
+    {
+        "id":  253,
+        "module":  "General registers",
+        "right":  "Discount categories - Create new discount categories"
+    },
+    {
+        "id":  254,
+        "module":  "General registers",
+        "right":  "Discount categories - Delete discount categories"
+    },
+    {
+        "id":  255,
+        "module":  "General registers",
+        "right":  "Discount categories - Modify discount categories"
+    },
+    {
+        "id":  256,
+        "module":  "General registers",
+        "right":  "Discount categories - Show discount categories"
+    },
+    {
+        "id":  257,
+        "module":  "General registers",
+        "right":  "Discounts - Create discounts"
+    },
+    {
+        "id":  258,
+        "module":  "General registers",
+        "right":  "Discounts - Delete discount"
+    },
+    {
+        "id":  259,
+        "module":  "General registers",
+        "right":  "Discounts - Modify discounts"
+    },
+    {
+        "id":  260,
+        "module":  "General registers",
+        "right":  "Discounts - Show discounts"
+    },
+    {
+        "id":  261,
+        "module":  "General registers",
+        "right":  "Documents (incl. settings, M-order doc., groups) - Create new document"
+    },
+    {
+        "id":  262,
+        "module":  "General registers",
+        "right":  "Documents (incl. settings, M-order doc., groups) - Delete document"
+    },
+    {
+        "id":  263,
+        "module":  "General registers",
+        "right":  "Documents (incl. settings, M-order doc., groups) - Modify document"
+    },
+    {
+        "id":  264,
+        "module":  "General registers",
+        "right":  "Documents (incl. settings, M-order doc., groups) - Show documents"
+    },
+    {
+        "id":  265,
+        "module":  "General registers",
+        "right":  "EDI settings - Create EDI settings"
+    },
+    {
+        "id":  266,
+        "module":  "General registers",
+        "right":  "EDI settings - Delete EDI settings"
+    },
+    {
+        "id":  267,
+        "module":  "General registers",
+        "right":  "EDI settings - Modify EDI settings"
+    },
+    {
+        "id":  268,
+        "module":  "General registers",
+        "right":  "EDI settings - Modify settings for EDI behavior"
+    },
+    {
+        "id":  269,
+        "module":  "General registers",
+        "right":  "EDI settings - Show EDI settings"
+    },
+    {
+        "id":  270,
+        "module":  "General registers",
+        "right":  "EDI transactions - Delete EDI transactions"
+    },
+    {
+        "id":  271,
+        "module":  "General registers",
+        "right":  "EDI transactions - Modify EDI transactions"
+    },
+    {
+        "id":  272,
+        "module":  "General registers",
+        "right":  "EDI transactions - Show EDI transactions"
+    },
+    {
+        "id":  273,
+        "module":  "General registers",
+        "right":  "Extra fields - Add extra fields"
+    },
+    {
+        "id":  274,
+        "module":  "General registers",
+        "right":  "Extra fields - Delete extra fields"
+    },
+    {
+        "id":  275,
+        "module":  "General registers",
+        "right":  "Extra fields - Modify extra fields"
+    },
+    {
+        "id":  276,
+        "module":  "General registers",
+        "right":  "Extra fields - Show extra fields"
+    },
+    {
+        "id":  277,
+        "module":  "General registers",
+        "right":  "Invoicing plan - Create new invoicing plan"
+    },
+    {
+        "id":  278,
+        "module":  "General registers",
+        "right":  "Invoicing plan - Delete invoicing plan"
+    },
+    {
+        "id":  279,
+        "module":  "General registers",
+        "right":  "Invoicing plan - Modify invoicing plan"
+    },
+    {
+        "id":  280,
+        "module":  "General registers",
+        "right":  "Invoicing plan - Show invoicing plan"
+    },
+    {
+        "id":  281,
+        "module":  "General registers",
+        "right":  "Language - Add language"
+    },
+    {
+        "id":  282,
+        "module":  "General registers",
+        "right":  "Language - Delete language"
+    },
+    {
+        "id":  283,
+        "module":  "General registers",
+        "right":  "Language - Modify languages"
+    },
+    {
+        "id":  284,
+        "module":  "General registers",
+        "right":  "Language - Show languages"
+    },
+    {
+        "id":  285,
+        "module":  "General registers",
+        "right":  "Locations - Create new locations"
+    },
+    {
+        "id":  286,
+        "module":  "General registers",
+        "right":  "Locations - Delete locations"
+    },
+    {
+        "id":  287,
+        "module":  "General registers",
+        "right":  "Locations - Modify locations"
+    },
+    {
+        "id":  288,
+        "module":  "General registers",
+        "right":  "Locations - Show locations"
+    },
+    {
+        "id":  289,
+        "module":  "General registers",
+        "right":  "Monitoring task - Create and handle all monitoring tasks"
+    },
+    {
+        "id":  290,
+        "module":  "General registers",
+        "right":  "Monitoring task - Create and handle personal monitoring tasks"
+    },
+    {
+        "id":  291,
+        "module":  "General registers",
+        "right":  "Number series - Modify number series"
+    },
+    {
+        "id":  292,
+        "module":  "General registers",
+        "right":  "Number series - Show number series"
+    },
+    {
+        "id":  293,
+        "module":  "General registers",
+        "right":  "Order types - Create new order types"
+    },
+    {
+        "id":  294,
+        "module":  "General registers",
+        "right":  "Order types - Delete order types"
+    },
+    {
+        "id":  295,
+        "module":  "General registers",
+        "right":  "Order types - Modify order types"
+    },
+    {
+        "id":  296,
+        "module":  "General registers",
+        "right":  "Order types - Show order types"
+    },
+    {
+        "id":  297,
+        "module":  "General registers",
+        "right":  "Package type/Goods type - Create new package types/goods types"
+    },
+    {
+        "id":  298,
+        "module":  "General registers",
+        "right":  "Package type/Goods type - Delete package type/goods type"
+    },
+    {
+        "id":  299,
+        "module":  "General registers",
+        "right":  "Package type/Goods type - Modify existing package types/goods types"
+    },
+    {
+        "id":  300,
+        "module":  "General registers",
+        "right":  "Package type/Goods type - Show package type/goods type"
+    },
+    {
+        "id":  301,
+        "module":  "General registers",
+        "right":  "Part codes - Create new part code"
+    },
+    {
+        "id":  302,
+        "module":  "General registers",
+        "right":  "Part codes - Delete part code"
+    },
+    {
+        "id":  303,
+        "module":  "General registers",
+        "right":  "Part codes - Modify existing part code"
+    },
+    {
+        "id":  304,
+        "module":  "General registers",
+        "right":  "Part codes - Show part codes"
+    },
+    {
+        "id":  305,
+        "module":  "General registers",
+        "right":  "Part status - Change part status"
+    },
+    {
+        "id":  306,
+        "module":  "General registers",
+        "right":  "Part status - Show part status"
+    },
+    {
+        "id":  307,
+        "module":  "General registers",
+        "right":  "Paths - Create new paths"
+    },
+    {
+        "id":  308,
+        "module":  "General registers",
+        "right":  "Paths - Delete paths"
+    },
+    {
+        "id":  309,
+        "module":  "General registers",
+        "right":  "Paths - Modify paths"
+    },
+    {
+        "id":  310,
+        "module":  "General registers",
+        "right":  "Paths - Modify settings for file viewer"
+    },
+    {
+        "id":  311,
+        "module":  "General registers",
+        "right":  "Paths - Show paths"
+    },
+    {
+        "id":  312,
+        "module":  "General registers",
+        "right":  "Personnel - Create new person"
+    },
+    {
+        "id":  313,
+        "module":  "General registers",
+        "right":  "Personnel - Delete person"
+    },
+    {
+        "id":  314,
+        "module":  "General registers",
+        "right":  "Personnel - Modify attendance settings"
+    },
+    {
+        "id":  315,
+        "module":  "General registers",
+        "right":  "Personnel - Modify person"
+    },
+    {
+        "id":  316,
+        "module":  "General registers",
+        "right":  "Personnel - Modify work settings"
+    },
+    {
+        "id":  317,
+        "module":  "General registers",
+        "right":  "Personnel - Show person"
+    },
+    {
+        "id":  318,
+        "module":  "General registers",
+        "right":  "Personnel - Update hourly cost for project"
+    },
+    {
+        "id":  319,
+        "module":  "General registers",
+        "right":  "Phrases - Create phrases"
+    },
+    {
+        "id":  320,
+        "module":  "General registers",
+        "right":  "Phrases - Delete phrases"
+    },
+    {
+        "id":  321,
+        "module":  "General registers",
+        "right":  "Phrases - Modify phrases"
+    },
+    {
+        "id":  322,
+        "module":  "General registers",
+        "right":  "Phrases - Show phrases"
+    },
+    {
+        "id":  323,
+        "module":  "General registers",
+        "right":  "Planning formulas - Create new planning formulas"
+    },
+    {
+        "id":  324,
+        "module":  "General registers",
+        "right":  "Planning formulas - Delete planning formulas"
+    },
+    {
+        "id":  325,
+        "module":  "General registers",
+        "right":  "Planning formulas - Modify planning formulas"
+    },
+    {
+        "id":  326,
+        "module":  "General registers",
+        "right":  "Planning formulas - Show planning formulas"
+    },
+    {
+        "id":  327,
+        "module":  "General registers",
+        "right":  "Posting matrix - Create new product groups"
+    },
+    {
+        "id":  328,
+        "module":  "General registers",
+        "right":  "Posting matrix - Delete product groups"
+    },
+    {
+        "id":  329,
+        "module":  "General registers",
+        "right":  "Posting matrix - Modify product groups"
+    },
+    {
+        "id":  330,
+        "module":  "General registers",
+        "right":  "Posting matrix - Show posting matrix"
+    },
+    {
+        "id":  331,
+        "module":  "General registers",
+        "right":  "Price lists - Create new price lists"
+    },
+    {
+        "id":  332,
+        "module":  "General registers",
+        "right":  "Price lists - Delete price lists"
+    },
+    {
+        "id":  333,
+        "module":  "General registers",
+        "right":  "Price lists - Modify price lists"
+    },
+    {
+        "id":  334,
+        "module":  "General registers",
+        "right":  "Price lists - Show price lists"
+    },
+    {
+        "id":  335,
+        "module":  "General registers",
+        "right":  "Probability codes - Create new probability codes"
+    },
+    {
+        "id":  336,
+        "module":  "General registers",
+        "right":  "Probability codes - Delete probability codes"
+    },
+    {
+        "id":  337,
+        "module":  "General registers",
+        "right":  "Probability codes - Modify existing probability codes"
+    },
+    {
+        "id":  338,
+        "module":  "General registers",
+        "right":  "Probability codes - Show probability codes"
+    },
+    {
+        "id":  339,
+        "module":  "General registers",
+        "right":  "Rejection codes/Cause codes - Create new rejection codes/cause codes"
+    },
+    {
+        "id":  340,
+        "module":  "General registers",
+        "right":  "Rejection codes/Cause codes - Delete rejection codes/cause codes"
+    },
+    {
+        "id":  341,
+        "module":  "General registers",
+        "right":  "Rejection codes/Cause codes - Modify rejection codes/cause codes"
+    },
+    {
+        "id":  342,
+        "module":  "General registers",
+        "right":  "Rejection codes/Cause codes - Show rejection codes/cause codes"
+    },
+    {
+        "id":  343,
+        "module":  "General registers",
+        "right":  "Server printer - Delete server printer"
+    },
+    {
+        "id":  344,
+        "module":  "General registers",
+        "right":  "Server printer - Modify server printer"
+    },
+    {
+        "id":  345,
+        "module":  "General registers",
+        "right":  "Server printer - Register new server printer"
+    },
+    {
+        "id":  346,
+        "module":  "General registers",
+        "right":  "Server printer - Show server printer"
+    },
+    {
+        "id":  347,
+        "module":  "General registers",
+        "right":  "Settings for export/import - Modify settings for export/import"
+    },
+    {
+        "id":  348,
+        "module":  "General registers",
+        "right":  "Settings for export/import - Show settings for export/import"
+    },
+    {
+        "id":  349,
+        "module":  "General registers",
+        "right":  "Settings for Monitor-to-Monitor - Modify settings for Monitor-to-Monitor"
+    },
+    {
+        "id":  350,
+        "module":  "General registers",
+        "right":  "Settings for Monitor-to-Monitor - Show inbox of Monitor-to-Monitor"
+    },
+    {
+        "id":  351,
+        "module":  "General registers",
+        "right":  "Settings for Monitor-to-Monitor - Show settings for Monitor-to-Monitor"
+    },
+    {
+        "id":  352,
+        "module":  "General registers",
+        "right":  "Shipping services - Create shipping services"
+    },
+    {
+        "id":  353,
+        "module":  "General registers",
+        "right":  "Shipping services - Delete shipping services"
+    },
+    {
+        "id":  354,
+        "module":  "General registers",
+        "right":  "Shipping services - Modify shipping services"
+    },
+    {
+        "id":  355,
+        "module":  "General registers",
+        "right":  "Shipping services - Show shipping services"
+    },
+    {
+        "id":  356,
+        "module":  "General registers",
+        "right":  "Signer settings – Absence - Show Signer settings – Absence"
+    },
+    {
+        "id":  357,
+        "module":  "General registers",
+        "right":  "System admin - Permission to show user sessions in IM"
+    },
+    {
+        "id":  358,
+        "module":  "General registers",
+        "right":  "System settings - Manage security settings"
+    },
+    {
+        "id":  359,
+        "module":  "General registers",
+        "right":  "System settings - Modify system setting"
+    },
+    {
+        "id":  360,
+        "module":  "General registers",
+        "right":  "System settings - Show system settings"
+    },
+    {
+        "id":  361,
+        "module":  "General registers",
+        "right":  "Terms - Create new terms"
+    },
+    {
+        "id":  362,
+        "module":  "General registers",
+        "right":  "Terms - Delete terms"
+    },
+    {
+        "id":  363,
+        "module":  "General registers",
+        "right":  "Terms - Modify terms"
+    },
+    {
+        "id":  364,
+        "module":  "General registers",
+        "right":  "Terms - Show terms"
+    },
+    {
+        "id":  365,
+        "module":  "General registers",
+        "right":  "Transaction types – Intrastat - Create new transaction types"
+    },
+    {
+        "id":  366,
+        "module":  "General registers",
+        "right":  "Transaction types – Intrastat - Delete transaction types"
+    },
+    {
+        "id":  367,
+        "module":  "General registers",
+        "right":  "Transaction types – Intrastat - Modify transaction types"
+    },
+    {
+        "id":  368,
+        "module":  "General registers",
+        "right":  "Transaction types – Intrastat - Show transaction types"
+    },
+    {
+        "id":  369,
+        "module":  "General registers",
+        "right":  "Units - Create new units"
+    },
+    {
+        "id":  370,
+        "module":  "General registers",
+        "right":  "Units - Delete units"
+    },
+    {
+        "id":  371,
+        "module":  "General registers",
+        "right":  "Units - Modify existing units"
+    },
+    {
+        "id":  372,
+        "module":  "General registers",
+        "right":  "Units - Show units"
+    },
+    {
+        "id":  373,
+        "module":  "General registers",
+        "right":  "User - Create new user"
+    },
+    {
+        "id":  374,
+        "module":  "General registers",
+        "right":  "User - Delete user"
+    },
+    {
+        "id":  375,
+        "module":  "General registers",
+        "right":  "User - Modify user"
+    },
+    {
+        "id":  376,
+        "module":  "General registers",
+        "right":  "User - Show user"
+    },
+    {
+        "id":  377,
+        "module":  "General registers",
+        "right":  "User rights groups - Create new user rights groups"
+    },
+    {
+        "id":  378,
+        "module":  "General registers",
+        "right":  "User rights groups - Delete user rights groups"
+    },
+    {
+        "id":  379,
+        "module":  "General registers",
+        "right":  "User rights groups - Modify user rights groups"
+    },
+    {
+        "id":  380,
+        "module":  "General registers",
+        "right":  "User rights groups - Show user rights groups"
+    },
+    {
+        "id":  381,
+        "module":  "General registers",
+        "right":  "Zip code register - Create new zip codes"
+    },
+    {
+        "id":  382,
+        "module":  "General registers",
+        "right":  "Zip code register - Delete zip code"
+    },
+    {
+        "id":  383,
+        "module":  "General registers",
+        "right":  "Zip code register - Modify zip codes"
+    },
+    {
+        "id":  384,
+        "module":  "General registers",
+        "right":  "Zip code register - Show zip codes"
+    },
+    {
+        "id":  385,
+        "module":  "Manufacturing",
+        "right":  "Basic data – Maintenance - Create basic data for maintenance"
+    },
+    {
+        "id":  386,
+        "module":  "Manufacturing",
+        "right":  "Basic data – Maintenance - Delete basic data for maintenance"
+    },
+    {
+        "id":  387,
+        "module":  "Manufacturing",
+        "right":  "Basic data – Maintenance - Modify basic data for maintenance"
+    },
+    {
+        "id":  388,
+        "module":  "Manufacturing",
+        "right":  "Basic data – Maintenance - Show basic data for maintenance"
+    },
+    {
+        "id":  389,
+        "module":  "Manufacturing",
+        "right":  "Calculate maintenance cost - Calculate maintenance cost"
+    },
+    {
+        "id":  390,
+        "module":  "Manufacturing",
+        "right":  "Daily management - Modify daily management"
+    },
+    {
+        "id":  391,
+        "module":  "Manufacturing",
+        "right":  "Daily management - Show daily management"
+    },
+    {
+        "id":  392,
+        "module":  "Manufacturing",
+        "right":  "Maintenance forecast - Create maintenance forecast"
+    },
+    {
+        "id":  393,
+        "module":  "Manufacturing",
+        "right":  "Maintenance forecast - Delete maintenance forecast"
+    },
+    {
+        "id":  394,
+        "module":  "Manufacturing",
+        "right":  "Maintenance forecast - Modify maintenance forecast"
+    },
+    {
+        "id":  395,
+        "module":  "Manufacturing",
+        "right":  "Maintenance forecast - Show maintenance forecast"
+    },
+    {
+        "id":  396,
+        "module":  "Manufacturing",
+        "right":  "Maintenance log - Show maintenance log"
+    },
+    {
+        "id":  397,
+        "module":  "Manufacturing",
+        "right":  "Maintenance order - Create new maintenance order"
+    },
+    {
+        "id":  398,
+        "module":  "Manufacturing",
+        "right":  "Maintenance order - Delete maintenance order"
+    },
+    {
+        "id":  399,
+        "module":  "Manufacturing",
+        "right":  "Maintenance order - Modify maintenance order"
+    },
+    {
+        "id":  400,
+        "module":  "Manufacturing",
+        "right":  "Maintenance order - Replan existing maintenance order"
+    },
+    {
+        "id":  401,
+        "module":  "Manufacturing",
+        "right":  "Maintenance order - Report maintenance order"
+    },
+    {
+        "id":  402,
+        "module":  "Manufacturing",
+        "right":  "Maintenance order - Show maintenance order"
+    },
+    {
+        "id":  403,
+        "module":  "Manufacturing",
+        "right":  "Maintenance plan - Create maintenance plan"
+    },
+    {
+        "id":  404,
+        "module":  "Manufacturing",
+        "right":  "Maintenance plan - Delete maintenance plan"
+    },
+    {
+        "id":  405,
+        "module":  "Manufacturing",
+        "right":  "Maintenance plan - Modify maintenance plan"
+    },
+    {
+        "id":  406,
+        "module":  "Manufacturing",
+        "right":  "Maintenance plan - Show maintenance plan"
+    },
+    {
+        "id":  407,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Create new manufacturing order"
+    },
+    {
+        "id":  408,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Delete manufacturing order"
+    },
+    {
+        "id":  409,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Modify manufacturing order"
+    },
+    {
+        "id":  410,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Replan existing manufacturing order"
+    },
+    {
+        "id":  411,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Report manufacturing order"
+    },
+    {
+        "id":  412,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Show manufacturing orders"
+    },
+    {
+        "id":  413,
+        "module":  "Manufacturing",
+        "right":  "Manufacturing order - Undo reporting"
+    },
+    {
+        "id":  414,
+        "module":  "Manufacturing",
+        "right":  "Measuring templates - Create measuring templates"
+    },
+    {
+        "id":  415,
+        "module":  "Manufacturing",
+        "right":  "Measuring templates - Modify measuring templates"
+    },
+    {
+        "id":  416,
+        "module":  "Manufacturing",
+        "right":  "Measuring templates - Show measuring templates"
+    },
+    {
+        "id":  417,
+        "module":  "Manufacturing",
+        "right":  "Post-calculation - Create new post-calculation"
+    },
+    {
+        "id":  418,
+        "module":  "Manufacturing",
+        "right":  "Post-calculation - Show post-calculation"
+    },
+    {
+        "id":  419,
+        "module":  "Manufacturing",
+        "right":  "Pre-calculation - Create new pre-calculation"
+    },
+    {
+        "id":  420,
+        "module":  "Manufacturing",
+        "right":  "Pre-calculation - Show pre-calculation"
+    },
+    {
+        "id":  421,
+        "module":  "Manufacturing",
+        "right":  "Production calendar - Change production calendar"
+    },
+    {
+        "id":  422,
+        "module":  "Manufacturing",
+        "right":  "Production calendar - Show production calendar"
+    },
+    {
+        "id":  423,
+        "module":  "Manufacturing",
+        "right":  "Report maintenance - Report maintenance"
+    },
+    {
+        "id":  424,
+        "module":  "Manufacturing",
+        "right":  "Report measuring data - Modify measuring data"
+    },
+    {
+        "id":  425,
+        "module":  "Manufacturing",
+        "right":  "Report measuring data - Report measuring data"
+    },
+    {
+        "id":  426,
+        "module":  "Manufacturing",
+        "right":  "Work center - Create new work center"
+    },
+    {
+        "id":  427,
+        "module":  "Manufacturing",
+        "right":  "Work center - Delete work center"
+    },
+    {
+        "id":  428,
+        "module":  "Manufacturing",
+        "right":  "Work center - Modify work center"
+    },
+    {
+        "id":  429,
+        "module":  "Manufacturing",
+        "right":  "Work center - Show work center"
+    },
+    {
+        "id":  430,
+        "module":  "Mobile client",
+        "right":  "Dashboard - Manage dashboard"
+    },
+    {
+        "id":  431,
+        "module":  "Mobile client",
+        "right":  "Dashboard - Manage dashboard templates"
+    },
+    {
+        "id":  432,
+        "module":  "Mobile client",
+        "right":  "Layout profiles - Manage layout profiles"
+    },
+    {
+        "id":  433,
+        "module":  "Mobile client",
+        "right":  "Lookup presentations - Manage Lookup presentations"
+    },
+    {
+        "id":  434,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Activities"
+    },
+    {
+        "id":  435,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Attendance list"
+    },
+    {
+        "id":  436,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Bulletin board"
+    },
+    {
+        "id":  437,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Delivery reliability"
+    },
+    {
+        "id":  438,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Invoicing log"
+    },
+    {
+        "id":  439,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - New customers"
+    },
+    {
+        "id":  440,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Order inflow"
+    },
+    {
+        "id":  441,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Report delivery (pick list)"
+    },
+    {
+        "id":  442,
+        "module":  "Mobile client",
+        "right":  "Manage dashboard components - Report pick list – Manufacturing"
+    },
+    {
+        "id":  443,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Activities"
+    },
+    {
+        "id":  444,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Attendance list"
+    },
+    {
+        "id":  445,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Bulletin board"
+    },
+    {
+        "id":  446,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Delivery reliability"
+    },
+    {
+        "id":  447,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Invoice log"
+    },
+    {
+        "id":  448,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - New customers"
+    },
+    {
+        "id":  449,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Order inflow"
+    },
+    {
+        "id":  450,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Report delivery (pick list)"
+    },
+    {
+        "id":  451,
+        "module":  "Mobile client",
+        "right":  "View dashboard components - Report pick list – Manufacturing"
+    },
+    {
+        "id":  452,
+        "module":  "Part synchronization",
+        "right":  "Synchronize parts - Manually run synchronization"
+    },
+    {
+        "id":  453,
+        "module":  "Part synchronization",
+        "right":  "Synchronize parts - Modify settings"
+    },
+    {
+        "id":  454,
+        "module":  "Part synchronization",
+        "right":  "Synchronize parts - Show settings"
+    },
+    {
+        "id":  455,
+        "module":  "Purchase",
+        "right":  "Accounts payable - Show accounts payable"
+    },
+    {
+        "id":  456,
+        "module":  "Purchase",
+        "right":  "Arrivals - Report arrival of purchase order"
+    },
+    {
+        "id":  457,
+        "module":  "Purchase",
+        "right":  "Arrivals - Report receiving inspection of purchase order"
+    },
+    {
+        "id":  458,
+        "module":  "Purchase",
+        "right":  "Arrivals - Show arrival"
+    },
+    {
+        "id":  459,
+        "module":  "Purchase",
+        "right":  "Arrivals - Show receiving inspection"
+    },
+    {
+        "id":  460,
+        "module":  "Purchase",
+        "right":  "Arrivals - Undo arrival reporting"
+    },
+    {
+        "id":  461,
+        "module":  "Purchase",
+        "right":  "Arrivals - Undo receiving inspection"
+    },
+    {
+        "id":  462,
+        "module":  "Purchase",
+        "right":  "Blanket order - Create new blanket order"
+    },
+    {
+        "id":  463,
+        "module":  "Purchase",
+        "right":  "Blanket order - Delete blanket order"
+    },
+    {
+        "id":  464,
+        "module":  "Purchase",
+        "right":  "Blanket order - Modify blanket order"
+    },
+    {
+        "id":  465,
+        "module":  "Purchase",
+        "right":  "Blanket order - Show blanket order"
+    },
+    {
+        "id":  466,
+        "module":  "Purchase",
+        "right":  "Business intelligence - Show Business intelligence – Purchase"
+    },
+    {
+        "id":  467,
+        "module":  "Purchase",
+        "right":  "Delivery schedule – Purchase - Create delivery schedule"
+    },
+    {
+        "id":  468,
+        "module":  "Purchase",
+        "right":  "Delivery schedule – Purchase - Delete delivery schedule"
+    },
+    {
+        "id":  469,
+        "module":  "Purchase",
+        "right":  "Delivery schedule – Purchase - Modify delivery schedule"
+    },
+    {
+        "id":  470,
+        "module":  "Purchase",
+        "right":  "Delivery schedule – Purchase - Show delivery schedule"
+    },
+    {
+        "id":  471,
+        "module":  "Purchase",
+        "right":  "Dispatch advice - Report dispatch advice"
+    },
+    {
+        "id":  472,
+        "module":  "Purchase",
+        "right":  "Dispatch advice - Show dispatch advice"
+    },
+    {
+        "id":  473,
+        "module":  "Purchase",
+        "right":  "EIM - Authorize supplier invoice"
+    },
+    {
+        "id":  474,
+        "module":  "Purchase",
+        "right":  "EIM - Final record without authorization"
+    },
+    {
+        "id":  475,
+        "module":  "Purchase",
+        "right":  "EIM - Final recording on last authorization"
+    },
+    {
+        "id":  476,
+        "module":  "Purchase",
+        "right":  "EIM - Forward invoice"
+    },
+    {
+        "id":  477,
+        "module":  "Purchase",
+        "right":  "EIM - Modify authorization list"
+    },
+    {
+        "id":  478,
+        "module":  "Purchase",
+        "right":  "EIM - Modify authorized row"
+    },
+    {
+        "id":  479,
+        "module":  "Purchase",
+        "right":  "EIM - Show invoice overview"
+    },
+    {
+        "id":  480,
+        "module":  "Purchase",
+        "right":  "EIM document - Add EIM document"
+    },
+    {
+        "id":  481,
+        "module":  "Purchase",
+        "right":  "EIM document - Delete EIM document"
+    },
+    {
+        "id":  482,
+        "module":  "Purchase",
+        "right":  "EIM document - Replace EIM document"
+    },
+    {
+        "id":  483,
+        "module":  "Purchase",
+        "right":  "Inquiry - Create new inquiry"
+    },
+    {
+        "id":  484,
+        "module":  "Purchase",
+        "right":  "Inquiry - Delete inquiry"
+    },
+    {
+        "id":  485,
+        "module":  "Purchase",
+        "right":  "Inquiry - Modify inquiry"
+    },
+    {
+        "id":  486,
+        "module":  "Purchase",
+        "right":  "Inquiry - Show inquiry"
+    },
+    {
+        "id":  487,
+        "module":  "Purchase",
+        "right":  "Invoice basis - Delete supplier invoice basis"
+    },
+    {
+        "id":  488,
+        "module":  "Purchase",
+        "right":  "Invoice basis - Modify supplier invoice basis"
+    },
+    {
+        "id":  489,
+        "module":  "Purchase",
+        "right":  "Invoice basis - Show supplier invoice basis"
+    },
+    {
+        "id":  490,
+        "module":  "Purchase",
+        "right":  "Outgoing payment - Confirmation of outgoing payments"
+    },
+    {
+        "id":  491,
+        "module":  "Purchase",
+        "right":  "Outgoing payment - Countersign payments (Monitor Mobile)"
+    },
+    {
+        "id":  492,
+        "module":  "Purchase",
+        "right":  "Outgoing payment - Show outgoing payments"
+    },
+    {
+        "id":  493,
+        "module":  "Purchase",
+        "right":  "Outgoing payment - Sign payments (Monitor Mobile)"
+    },
+    {
+        "id":  494,
+        "module":  "Purchase",
+        "right":  "Outgoing payment journal - Approve outgoing payment journal"
+    },
+    {
+        "id":  495,
+        "module":  "Purchase",
+        "right":  "Outgoing payment journal - Create outgoing payment journal"
+    },
+    {
+        "id":  496,
+        "module":  "Purchase",
+        "right":  "Outgoing payment journal - Show outgoing payment journal"
+    },
+    {
+        "id":  497,
+        "module":  "Purchase",
+        "right":  "Payment history - Modify payment history"
+    },
+    {
+        "id":  498,
+        "module":  "Purchase",
+        "right":  "Payment history - Show payment history"
+    },
+    {
+        "id":  499,
+        "module":  "Purchase",
+        "right":  "Price list - Show price list"
+    },
+    {
+        "id":  500,
+        "module":  "Purchase",
+        "right":  "Purchase order - Create new purchase order"
+    },
+    {
+        "id":  501,
+        "module":  "Purchase",
+        "right":  "Purchase order - Delete purchase order"
+    },
+    {
+        "id":  502,
+        "module":  "Purchase",
+        "right":  "Purchase order - Modify approval list"
+    },
+    {
+        "id":  503,
+        "module":  "Purchase",
+        "right":  "Purchase order - Modify payment plan"
+    },
+    {
+        "id":  504,
+        "module":  "Purchase",
+        "right":  "Purchase order - Modify purchase order"
+    },
+    {
+        "id":  505,
+        "module":  "Purchase",
+        "right":  "Purchase order - Print reminders"
+    },
+    {
+        "id":  506,
+        "module":  "Purchase",
+        "right":  "Purchase order - Show payment plan"
+    },
+    {
+        "id":  507,
+        "module":  "Purchase",
+        "right":  "Purchase order - Show purchase orders"
+    },
+    {
+        "id":  508,
+        "module":  "Purchase",
+        "right":  "Report measuring data - Modify measuring data"
+    },
+    {
+        "id":  509,
+        "module":  "Purchase",
+        "right":  "Report measuring data - Report measuring data"
+    },
+    {
+        "id":  510,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Create new attachment types"
+    },
+    {
+        "id":  511,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Create new path for inboxes"
+    },
+    {
+        "id":  512,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Delete attachment types"
+    },
+    {
+        "id":  513,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Delete path for inboxes"
+    },
+    {
+        "id":  514,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Modify attachment types"
+    },
+    {
+        "id":  515,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Modify path for inboxes"
+    },
+    {
+        "id":  516,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Scan supplier invoices"
+    },
+    {
+        "id":  517,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Show attachment types"
+    },
+    {
+        "id":  518,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Show path for inboxes"
+    },
+    {
+        "id":  519,
+        "module":  "Purchase",
+        "right":  "Scan supplier invoices - Show the procedure Scan supplier invoices"
+    },
+    {
+        "id":  520,
+        "module":  "Purchase",
+        "right":  "Statistics/Follow-up - Modify arrival log"
+    },
+    {
+        "id":  521,
+        "module":  "Purchase",
+        "right":  "Statistics/Follow-up - Show delivery reliability"
+    },
+    {
+        "id":  522,
+        "module":  "Purchase",
+        "right":  "Statistics/Follow-up - Show Intrastat info"
+    },
+    {
+        "id":  523,
+        "module":  "Purchase",
+        "right":  "Statistics/Follow-up - Show purchase statistics"
+    },
+    {
+        "id":  524,
+        "module":  "Purchase",
+        "right":  "Statistics/Follow-up - Show supplier invoice log"
+    },
+    {
+        "id":  525,
+        "module":  "Purchase",
+        "right":  "Supplier - Create new supplier"
+    },
+    {
+        "id":  526,
+        "module":  "Purchase",
+        "right":  "Supplier - Delete supplier"
+    },
+    {
+        "id":  527,
+        "module":  "Purchase",
+        "right":  "Supplier - Modify supplier"
+    },
+    {
+        "id":  528,
+        "module":  "Purchase",
+        "right":  "Supplier - Reactivate supplier"
+    },
+    {
+        "id":  529,
+        "module":  "Purchase",
+        "right":  "Supplier - Show supplier"
+    },
+    {
+        "id":  530,
+        "module":  "Purchase",
+        "right":  "Supplier invoice - Create new supplier invoice"
+    },
+    {
+        "id":  531,
+        "module":  "Purchase",
+        "right":  "Supplier invoice - Delete supplier invoice"
+    },
+    {
+        "id":  532,
+        "module":  "Purchase",
+        "right":  "Supplier invoice - Modify supplier invoice"
+    },
+    {
+        "id":  533,
+        "module":  "Purchase",
+        "right":  "Supplier invoice - Show supplier invoice"
+    },
+    {
+        "id":  534,
+        "module":  "Purchase",
+        "right":  "Supplier invoice journal - Approve supplier invoice journal"
+    },
+    {
+        "id":  535,
+        "module":  "Purchase",
+        "right":  "Supplier invoice journal - Create supplier invoice journal"
+    },
+    {
+        "id":  536,
+        "module":  "Purchase",
+        "right":  "Supplier invoice journal - Show supplier invoice journal"
+    },
+    {
+        "id":  537,
+        "module":  "Purchase",
+        "right":  "Transaction list - Create payment file"
+    },
+    {
+        "id":  538,
+        "module":  "Purchase",
+        "right":  "Transaction list - Show transaction list"
+    },
+    {
+        "id":  539,
+        "module":  "Sales",
+        "right":  "Accounts receivable - Cancel accounts receivable"
+    },
+    {
+        "id":  540,
+        "module":  "Sales",
+        "right":  "Accounts receivable - Create accounts receivable"
+    },
+    {
+        "id":  541,
+        "module":  "Sales",
+        "right":  "Accounts receivable - Modify accounts receivable"
+    },
+    {
+        "id":  542,
+        "module":  "Sales",
+        "right":  "Accounts receivable - Show accounts receivable"
+    },
+    {
+        "id":  543,
+        "module":  "Sales",
+        "right":  "Accounts receivable - Show Update accounts receivable"
+    },
+    {
+        "id":  544,
+        "module":  "Sales",
+        "right":  "Blanket order - Create new blanket order"
+    },
+    {
+        "id":  545,
+        "module":  "Sales",
+        "right":  "Blanket order - Delete blanket order"
+    },
+    {
+        "id":  546,
+        "module":  "Sales",
+        "right":  "Blanket order - Modify blanket order"
+    },
+    {
+        "id":  547,
+        "module":  "Sales",
+        "right":  "Blanket order - Show blanket order"
+    },
+    {
+        "id":  548,
+        "module":  "Sales",
+        "right":  "Business intelligence - Show Business intelligence – Sales"
+    },
+    {
+        "id":  549,
+        "module":  "Sales",
+        "right":  "Cash flow forecast - Create other cash flows"
+    },
+    {
+        "id":  550,
+        "module":  "Sales",
+        "right":  "Cash flow forecast - Delete other cash flows"
+    },
+    {
+        "id":  551,
+        "module":  "Sales",
+        "right":  "Cash flow forecast - Modify other cash flows"
+    },
+    {
+        "id":  552,
+        "module":  "Sales",
+        "right":  "Cash flow forecast - Show cash flow forecast"
+    },
+    {
+        "id":  553,
+        "module":  "Sales",
+        "right":  "Cash flow forecast - Show other cash flows"
+    },
+    {
+        "id":  554,
+        "module":  "Sales",
+        "right":  "Customer - Create new customer"
+    },
+    {
+        "id":  555,
+        "module":  "Sales",
+        "right":  "Customer - Delete customer"
+    },
+    {
+        "id":  556,
+        "module":  "Sales",
+        "right":  "Customer - Modify customer"
+    },
+    {
+        "id":  557,
+        "module":  "Sales",
+        "right":  "Customer - Show customer"
+    },
+    {
+        "id":  558,
+        "module":  "Sales",
+        "right":  "Customer agreement - Create agreement"
+    },
+    {
+        "id":  559,
+        "module":  "Sales",
+        "right":  "Customer agreement - Delete agreement"
+    },
+    {
+        "id":  560,
+        "module":  "Sales",
+        "right":  "Customer agreement - Modify agreement"
+    },
+    {
+        "id":  561,
+        "module":  "Sales",
+        "right":  "Customer agreement - Show agreement"
+    },
+    {
+        "id":  562,
+        "module":  "Sales",
+        "right":  "Customer invoice journal - Approve customer invoice journal"
+    },
+    {
+        "id":  563,
+        "module":  "Sales",
+        "right":  "Customer invoice journal - Create customer invoice journal"
+    },
+    {
+        "id":  564,
+        "module":  "Sales",
+        "right":  "Customer invoice journal - Show customer invoice journal"
+    },
+    {
+        "id":  565,
+        "module":  "Sales",
+        "right":  "Customer order - Create new customer order"
+    },
+    {
+        "id":  566,
+        "module":  "Sales",
+        "right":  "Customer order - Delete customer order"
+    },
+    {
+        "id":  567,
+        "module":  "Sales",
+        "right":  "Customer order - Modify customer order"
+    },
+    {
+        "id":  568,
+        "module":  "Sales",
+        "right":  "Customer order - Modify invoicing plan"
+    },
+    {
+        "id":  569,
+        "module":  "Sales",
+        "right":  "Customer order - Show customer orders"
+    },
+    {
+        "id":  570,
+        "module":  "Sales",
+        "right":  "Customer order - Show invoicing plan"
+    },
+    {
+        "id":  571,
+        "module":  "Sales",
+        "right":  "Delivery - Report delivery"
+    },
+    {
+        "id":  572,
+        "module":  "Sales",
+        "right":  "Delivery - Undo delivery reporting"
+    },
+    {
+        "id":  573,
+        "module":  "Sales",
+        "right":  "Delivery schedule - Create new delivery schedule"
+    },
+    {
+        "id":  574,
+        "module":  "Sales",
+        "right":  "Delivery schedule - Delete delivery schedule"
+    },
+    {
+        "id":  575,
+        "module":  "Sales",
+        "right":  "Delivery schedule - Modify delivery schedule"
+    },
+    {
+        "id":  576,
+        "module":  "Sales",
+        "right":  "Delivery schedule - Process delivery schedule"
+    },
+    {
+        "id":  577,
+        "module":  "Sales",
+        "right":  "Delivery schedule - Show delivery schedule"
+    },
+    {
+        "id":  578,
+        "module":  "Sales",
+        "right":  "Delivery schedule type - Create delivery schedule type"
+    },
+    {
+        "id":  579,
+        "module":  "Sales",
+        "right":  "Delivery schedule type - Delete delivery schedule type"
+    },
+    {
+        "id":  580,
+        "module":  "Sales",
+        "right":  "Delivery schedule type - Modify delivery schedule type"
+    },
+    {
+        "id":  581,
+        "module":  "Sales",
+        "right":  "Delivery schedule type - Show delivery schedule type"
+    },
+    {
+        "id":  582,
+        "module":  "Sales",
+        "right":  "Incoming payment - Confirmation of incoming payments"
+    },
+    {
+        "id":  583,
+        "module":  "Sales",
+        "right":  "Incoming payment - Show incoming payments"
+    },
+    {
+        "id":  584,
+        "module":  "Sales",
+        "right":  "Incoming payment journal - Approve incoming payment journal"
+    },
+    {
+        "id":  585,
+        "module":  "Sales",
+        "right":  "Incoming payment journal - Create incoming payment journal"
+    },
+    {
+        "id":  586,
+        "module":  "Sales",
+        "right":  "Incoming payment journal - Show incoming payment journal"
+    },
+    {
+        "id":  587,
+        "module":  "Sales",
+        "right":  "Interest charge basis - Modify interest charge basis"
+    },
+    {
+        "id":  588,
+        "module":  "Sales",
+        "right":  "Interest charge basis - Release interest invoice"
+    },
+    {
+        "id":  589,
+        "module":  "Sales",
+        "right":  "Interest charge basis - Show interest charge basis"
+    },
+    {
+        "id":  590,
+        "module":  "Sales",
+        "right":  "Invoice basis - Approve invoice"
+    },
+    {
+        "id":  591,
+        "module":  "Sales",
+        "right":  "Invoice basis - Create customer invoice basis"
+    },
+    {
+        "id":  592,
+        "module":  "Sales",
+        "right":  "Invoice basis - Delete customer invoice basis"
+    },
+    {
+        "id":  593,
+        "module":  "Sales",
+        "right":  "Invoice basis - Modify customer invoice basis"
+    },
+    {
+        "id":  594,
+        "module":  "Sales",
+        "right":  "Invoice basis - Show customer invoice basis"
+    },
+    {
+        "id":  595,
+        "module":  "Sales",
+        "right":  "Packing rules - Create packing rules"
+    },
+    {
+        "id":  596,
+        "module":  "Sales",
+        "right":  "Packing rules - Delete packing rules"
+    },
+    {
+        "id":  597,
+        "module":  "Sales",
+        "right":  "Packing rules - Modify packing rules"
+    },
+    {
+        "id":  598,
+        "module":  "Sales",
+        "right":  "Packing rules - Show packing rules"
+    },
+    {
+        "id":  599,
+        "module":  "Sales",
+        "right":  "Payment history - Modify payment history"
+    },
+    {
+        "id":  600,
+        "module":  "Sales",
+        "right":  "Payment history - Show payment history"
+    },
+    {
+        "id":  601,
+        "module":  "Sales",
+        "right":  "Payment reminder - Show printout of payment reminder"
+    },
+    {
+        "id":  602,
+        "module":  "Sales",
+        "right":  "Payment reminder - Show reminder basis"
+    },
+    {
+        "id":  603,
+        "module":  "Sales",
+        "right":  "Price list - Show price list"
+    },
+    {
+        "id":  604,
+        "module":  "Sales",
+        "right":  "Pro forma invoice - Approve pro forma invoice"
+    },
+    {
+        "id":  605,
+        "module":  "Sales",
+        "right":  "Pro forma invoice - Show pro forma invoice"
+    },
+    {
+        "id":  606,
+        "module":  "Sales",
+        "right":  "Quote - Create new quote"
+    },
+    {
+        "id":  607,
+        "module":  "Sales",
+        "right":  "Quote - Delete quote"
+    },
+    {
+        "id":  608,
+        "module":  "Sales",
+        "right":  "Quote - Edit invoicing plan"
+    },
+    {
+        "id":  609,
+        "module":  "Sales",
+        "right":  "Quote - Modify quote"
+    },
+    {
+        "id":  610,
+        "module":  "Sales",
+        "right":  "Quote - Show invoicing plan"
+    },
+    {
+        "id":  611,
+        "module":  "Sales",
+        "right":  "Quote - Show quote"
+    },
+    {
+        "id":  612,
+        "module":  "Sales",
+        "right":  "Shipment - Create shipment"
+    },
+    {
+        "id":  613,
+        "module":  "Sales",
+        "right":  "Shipment - Delete shipment"
+    },
+    {
+        "id":  614,
+        "module":  "Sales",
+        "right":  "Shipment - Modify shipment"
+    },
+    {
+        "id":  615,
+        "module":  "Sales",
+        "right":  "Shipment - Show shipment"
+    },
+    {
+        "id":  616,
+        "module":  "Sales",
+        "right":  "Statistics/Follow-up - Modify delivery log"
+    },
+    {
+        "id":  617,
+        "module":  "Sales",
+        "right":  "Statistics/Follow-up - Show delivery reliability"
+    },
+    {
+        "id":  618,
+        "module":  "Sales",
+        "right":  "Statistics/Follow-up - Show Intrastat export"
+    },
+    {
+        "id":  619,
+        "module":  "Sales",
+        "right":  "Statistics/Follow-up - Show Intrastat info"
+    },
+    {
+        "id":  620,
+        "module":  "Sales",
+        "right":  "Statistics/Follow-up - Show order inflow"
+    },
+    {
+        "id":  621,
+        "module":  "Sales",
+        "right":  "Statistics/Follow-up - Show sales statistics"
+    },
+    {
+        "id":  622,
+        "module":  "Stock",
+        "right":  "Basic data – Cases - Create basic data for case"
+    },
+    {
+        "id":  623,
+        "module":  "Stock",
+        "right":  "Basic data – Cases - Delete basic data for case"
+    },
+    {
+        "id":  624,
+        "module":  "Stock",
+        "right":  "Basic data – Cases - Modify basic data for case"
+    },
+    {
+        "id":  625,
+        "module":  "Stock",
+        "right":  "Basic data – Cases - Show basic data for case"
+    },
+    {
+        "id":  626,
+        "module":  "Stock",
+        "right":  "Basic data – Part - Create new basic data for part"
+    },
+    {
+        "id":  627,
+        "module":  "Stock",
+        "right":  "Basic data – Part - Delete basic data for part"
+    },
+    {
+        "id":  628,
+        "module":  "Stock",
+        "right":  "Basic data – Part - Modify basic data for part"
+    },
+    {
+        "id":  629,
+        "module":  "Stock",
+        "right":  "Basic data – Part - Show basic data for part"
+    },
+    {
+        "id":  630,
+        "module":  "Stock",
+        "right":  "Case - Create new case"
+    },
+    {
+        "id":  631,
+        "module":  "Stock",
+        "right":  "Case - Delete case"
+    },
+    {
+        "id":  632,
+        "module":  "Stock",
+        "right":  "Case - Modify case"
+    },
+    {
+        "id":  633,
+        "module":  "Stock",
+        "right":  "Case - Show case"
+    },
+    {
+        "id":  634,
+        "module":  "Stock",
+        "right":  "Packaging template - Create packaging template"
+    },
+    {
+        "id":  635,
+        "module":  "Stock",
+        "right":  "Packaging template - Delete packaging template"
+    },
+    {
+        "id":  636,
+        "module":  "Stock",
+        "right":  "Packaging template - Modify packaging template"
+    },
+    {
+        "id":  637,
+        "module":  "Stock",
+        "right":  "Packaging template - Show packaging template"
+    },
+    {
+        "id":  638,
+        "module":  "Stock",
+        "right":  "Part - Administer part configurations"
+    },
+    {
+        "id":  639,
+        "module":  "Stock",
+        "right":  "Part - Change default unit"
+    },
+    {
+        "id":  640,
+        "module":  "Stock",
+        "right":  "Part - Create new part"
+    },
+    {
+        "id":  641,
+        "module":  "Stock",
+        "right":  "Part - Delete part"
+    },
+    {
+        "id":  642,
+        "module":  "Stock",
+        "right":  "Part - Modify part"
+    },
+    {
+        "id":  643,
+        "module":  "Stock",
+        "right":  "Part - Show part"
+    },
+    {
+        "id":  644,
+        "module":  "Stock",
+        "right":  "Requirements planning - Net requirement calculation"
+    },
+    {
+        "id":  645,
+        "module":  "Stock",
+        "right":  "Requirements planning - Perform requirement calculation"
+    },
+    {
+        "id":  646,
+        "module":  "Stock",
+        "right":  "Sales forecasts - Create sales forecasts"
+    },
+    {
+        "id":  647,
+        "module":  "Stock",
+        "right":  "Sales forecasts - Delete sales forecasts"
+    },
+    {
+        "id":  648,
+        "module":  "Stock",
+        "right":  "Sales forecasts - Modify sales forecasts"
+    },
+    {
+        "id":  649,
+        "module":  "Stock",
+        "right":  "Sales forecasts - Show sales forecasts"
+    },
+    {
+        "id":  650,
+        "module":  "Stock",
+        "right":  "Serial number - Create new serial number"
+    },
+    {
+        "id":  651,
+        "module":  "Stock",
+        "right":  "Serial number - Delete serial number"
+    },
+    {
+        "id":  652,
+        "module":  "Stock",
+        "right":  "Serial number - Modify serial number"
+    },
+    {
+        "id":  653,
+        "module":  "Stock",
+        "right":  "Serial number - Show serial number"
+    },
+    {
+        "id":  654,
+        "module":  "Stock",
+        "right":  "Stock count - Report stock count"
+    },
+    {
+        "id":  655,
+        "module":  "Stock",
+        "right":  "Stock count difference - Show stock count difference"
+    },
+    {
+        "id":  656,
+        "module":  "Stock",
+        "right":  "Stock reporting journal - Approve stock reporting journal"
+    },
+    {
+        "id":  657,
+        "module":  "Stock",
+        "right":  "Stock reporting journal - Show stock reporting journal"
+    },
+    {
+        "id":  658,
+        "module":  "Stock",
+        "right":  "Stock value - Show stock value"
+    },
+    {
+        "id":  659,
+        "module":  "Time recording",
+        "right":  "Basic data – Attendance - Create new basic data for attendance"
+    },
+    {
+        "id":  660,
+        "module":  "Time recording",
+        "right":  "Basic data – Attendance - Delete basic data for attendance"
+    },
+    {
+        "id":  661,
+        "module":  "Time recording",
+        "right":  "Basic data – Attendance - Modify basic data for attendance"
+    },
+    {
+        "id":  662,
+        "module":  "Time recording",
+        "right":  "Basic data – Attendance - Show basic data for attendance"
+    },
+    {
+        "id":  663,
+        "module":  "Time recording",
+        "right":  "Basic data – Work - Create new basic data for work"
+    },
+    {
+        "id":  664,
+        "module":  "Time recording",
+        "right":  "Basic data – Work - Delete basic data for work"
+    },
+    {
+        "id":  665,
+        "module":  "Time recording",
+        "right":  "Basic data – Work - Modify basic data for work"
+    },
+    {
+        "id":  666,
+        "module":  "Time recording",
+        "right":  "Basic data – Work - Show basic data for work"
+    },
+    {
+        "id":  667,
+        "module":  "Time recording",
+        "right":  "Recording items - Adjust attendance"
+    },
+    {
+        "id":  668,
+        "module":  "Time recording",
+        "right":  "Recording items - Adjust work"
+    },
+    {
+        "id":  669,
+        "module":  "Time recording",
+        "right":  "Recording items - Administer system signer"
+    },
+    {
+        "id":  670,
+        "module":  "Time recording",
+        "right":  "Recording items - Authorize attendance"
+    },
+    {
+        "id":  671,
+        "module":  "Time recording",
+        "right":  "Recording items - Record"
+    },
+    {
+        "id":  672,
+        "module":  "Time recording",
+        "right":  "Recording items - Run salary export"
+    },
+    {
+        "id":  673,
+        "module":  "Time recording",
+        "right":  "Recording items - Show recording items"
+    }
+]

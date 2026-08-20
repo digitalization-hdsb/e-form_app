@@ -1,0 +1,56 @@
+/// Mirrors the DEPARTMENT_CODES list in src/pages/PettyCashForm.tsx so the
+/// Flutter claim form writes the exact same department-code values.
+class DepartmentCode {
+  final String code;
+  final String name;
+  const DepartmentCode(this.code, this.name);
+}
+
+final List<DepartmentCode> departmentCodes = [
+  const DepartmentCode('COF001', 'CEO OFFICE'),
+  const DepartmentCode('MEN001', 'MACHINING ENGINEERING'),
+  const DepartmentCode('CEN001', 'CASTING ENGINEERING'),
+  const DepartmentCode('CTR001', 'CASTING TROUBLESHOOTING'),
+  const DepartmentCode('MAS001', 'MANUFACTURING AUTOMATION SERVICE'),
+  const DepartmentCode('IEN001', 'INDUSTRIAL ENGINEERING'),
+  const DepartmentCode('TCD001', 'MOULD & DESIGN DEVELOPMENT'),
+  const DepartmentCode('TCD002', 'IN-HOUSE FABRICATION/TOOLROOM'),
+  const DepartmentCode('EDV001', 'CASTING AND QUALITY DEV & DESIGN SIM'),
+  const DepartmentCode('EDV003', 'TECHNICAL BIDDING/ INNOVATION'),
+  const DepartmentCode('EDV002', 'MACHINING DEVELOPMENT'),
+  const DepartmentCode('MTC001', 'CASTING MAINTENANCE'),
+  const DepartmentCode('MTC002', 'MACHINING MAINTENANCE'),
+  const DepartmentCode('MTC003', 'MOULD MAINTENANCE'),
+  const DepartmentCode('PVD001', 'DIRECT PROCUREMENT'),
+  const DepartmentCode('PVD003', 'NEW VENDOR DEVELOPMENT'),
+  const DepartmentCode('PVD002', 'INDIRECT PROCUREMENT'),
+  const DepartmentCode('SHE001', 'SAFETY, HEALTH & ENVIRONMENT'),
+  const DepartmentCode('FMT001', 'BUILDING MAINTENANCE'),
+  const DepartmentCode('FMT002', 'WATER TREATMENT PLANT'),
+  const DepartmentCode('FMT003', 'KAIZEN'),
+  const DepartmentCode('EQT001', 'CUSTOMER SERVICE OPERATION'),
+  const DepartmentCode('EQT002', 'SUPPLIER QUALITY ENGINEERING'),
+  const DepartmentCode('IQT001', 'QUALITY INSPECTION'),
+  const DepartmentCode('IQT003', 'QMS & DOCUMENT CONTROL'),
+  const DepartmentCode('IQT002', 'CMM & FA'),
+  const DepartmentCode('FUR001', 'FURNACE'),
+  const DepartmentCode('CAS001', 'CASTING'),
+  const DepartmentCode('SEC001', 'SECONDARY'),
+  const DepartmentCode('DRM001', 'DORMAN ROOM'),
+  const DepartmentCode('MAC001', 'MACHINING'),
+  const DepartmentCode('DST001', 'DIE SETTER'),
+  const DepartmentCode('HMS001', '5S & HMS'),
+  const DepartmentCode('SCM001', 'PRODUCTION PLANNING & CONTROL'),
+  const DepartmentCode('SCM003', 'MATERIAL MANAGEMENT'),
+  const DepartmentCode('SCM002', 'WAREHOUSE & LOGISTIC'),
+  const DepartmentCode('LOM001', 'LOMA'),
+  const DepartmentCode('FIN001', 'MANAGEMENT ACCOUNTING'),
+  const DepartmentCode('FIN002', 'FINANCIAL ACCOUNTING'),
+  const DepartmentCode('HCM001', 'HUMAN RESOURCE & LEGAL'),
+  const DepartmentCode('HCM002', 'ADMINISTRATION & SECURITY'),
+  const DepartmentCode('MKT001', 'MARKETING'),
+  const DepartmentCode('BDV001', 'BUSINESS OPERATION'),
+  const DepartmentCode('PMO001', 'PROJECT MANAGEMENT OFFICE'),
+  const DepartmentCode('ITC002', 'IT INFRASTRUCTURE'),
+  const DepartmentCode('ITC001', 'IT APPLICATION'),
+]..sort((a, b) => a.code.compareTo(b.code));
